@@ -1,4 +1,4 @@
-# 05 · Human-Computer Interaction — Data Visualization
+# Human-Computer Interaction — Data Visualization
 
 Tiga praktik HCI untuk visualisasi data dalam satu file:
 1. **Sebelum vs sesudah** — pie 7 irisan + warna *jet* → bar terurut, satu warna, label langsung (persepsi lebih akurat).
